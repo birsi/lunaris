@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <rect width="256" height="256" fill="transparent"/>
+  <!-- Equilateral-ish triangle centered -->
+  <polygon points="128,40 48,200 208,200"
+           fill="none"
+           stroke="#D4AF37"
+           stroke-width="12"
+           stroke-linecap="round"
+           stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,735 @@
+[00:00:00.496] Server  LOG      ✓ Ready in 360ms
+[00:00:02.280] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:48.540] Server  LOG      ✓ Compiled in 53ms
+[00:04:02.254] Server  LOG      ✓ Compiled in 38ms
+[00:04:33.279] Server  LOG      ✓ Compiled in 43ms
+[00:04:44.402] Server  LOG      ✓ Compiled in 10ms
+[00:04:59.698] Server  LOG      ✓ Compiled in 11ms
+[00:05:22.389] Server  LOG      ✓ Compiled in 18ms
+[00:05:50.821] Server  LOG      ✓ Compiled in 10ms
+[00:06:13.394] Server  LOG      ✓ Compiled in 9ms
+[00:06:17.578] Server  LOG      ✓ Compiled in 8ms
+[00:06:25.307] Server  LOG      ✓ Compiled in 7ms
+[00:08:49.024] Server  LOG      ✓ Compiled in 36ms
+[00:08:51.251] Server  LOG      ✓ Compiled in 13ms
+[00:09:01.778] Server  LOG      ✓ Compiled in 9ms
+[00:09:04.434] Server  LOG      ✓ Compiled in 13ms
+[00:09:14.603] Server  LOG      ✓ Compiled in 11ms
+[00:09:16.689] Server  LOG      ✓ Compiled in 12ms
+[00:09:24.906] Server  LOG      ✓ Compiled in 36ms
+[00:09:29.545] Server  LOG      ✓ Compiled in 13ms
+[00:10:05.365] Server  LOG      ✓ Compiled in 13ms
+[00:10:35.292] Server  LOG      ✓ Compiled in 9ms
+[00:10:59.117] Server  LOG      ✓ Compiled in 28ms
+[00:11:49.687] Server  LOG      ✓ Compiled in 23ms
+[00:12:10.505] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:12:11.526] Server  LOG      ✓ Compiled in 10ms
+[00:53:31.278] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:53:31.405] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/images/1.jpg" "received" null
+[00:53:34.361] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/images/1.jpg" "received" null
+[00:53:34.419] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:53:35.008] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/images/1.jpg" "received" null
+[00:53:35.052] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:53:49.848] Server  LOG      ✓ Compiled in 34ms
+[00:54:35.344] Server  LOG      ✓ Compiled in 36ms
+[01:31:47.938] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:31:58.648] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[09:21:34.389] Server  LOG      ✓ Compiled in 92ms
+[09:21:37.305] Server  LOG      ✓ Compiled in 18ms
+[09:21:51.018] Server  LOG      ✓ Compiled in 23ms
+[09:22:07.860] Server  LOG      ✓ Compiled in 43ms
+[09:22:55.771] Server  LOG      ✓ Compiled in 29ms
+[09:23:06.541] Server  LOG      ✓ Compiled in 21ms
+[09:23:21.549] Server  LOG      ✓ Compiled in 34ms
+[09:23:24.941] Server  LOG      ✓ Compiled in 7ms
+[09:23:34.254] Server  LOG      ✓ Compiled in 28ms
+[09:23:36.837] Server  LOG      ✓ Compiled in 7ms
+[09:23:39.455] Server  LOG      ✓ Compiled in 13ms
+[09:24:16.400] Server  LOG      ✓ Compiled in 29ms
+[09:25:15.201] Server  LOG      ✓ Compiled in 24ms
+[09:25:48.785] Server  LOG      ✓ Compiled in 91ms
+[09:25:50.146] Server  LOG      ✓ Compiled in 9ms
+[09:26:18.368] Server  LOG      ✓ Compiled in 49ms
+[09:26:50.544] Server  LOG      ✓ Compiled in 30ms
+[09:27:05.637] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[09:27:28.711] Server  LOG      ✓ Compiled in 37ms
+[09:28:17.933] Server  LOG      ✓ Compiled in 41ms
+[09:28:42.884] Server  LOG      ✓ Compiled in 23ms
+[09:29:03.117] Server  LOG      ✓ Compiled in 32ms
+[15:17:23.619] Server  WARN     ⚠ Cross origin request detected from 192.168.50.172 to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+[15:17:23.824] Browser ERROR   uncaughtError: TypeError: undefined is not an object (evaluating 'window.ethereum.selectedAddress = undefined')
+[15:17:27.162] Browser ERROR   uncaughtError: TypeError: undefined is not an object (evaluating 'window.ethereum.selectedAddress = undefined')
+[15:18:19.289] Browser ERROR   uncaughtError: TypeError: undefined is not an object (evaluating 'window.ethereum.selectedAddress = undefined')
+[15:20:53.510] Server  LOG      ✓ Compiled in 51ms
+[15:21:10.513] Browser ERROR   uncaughtError: TypeError: undefined is not an object (evaluating 'window.ethereum.selectedAddress = undefined')
+[15:21:22.170] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[15:21:28.128] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[15:22:11.070] Server  LOG      ✓ Compiled in 54ms
+[15:22:30.788] Server  LOG      ✓ Compiled in 10ms
+[15:22:48.033] Server  LOG      ✓ Compiled in 13ms
+[15:23:06.693] Server  LOG      ✓ Compiled in 44ms
+[15:23:11.208] Browser ERROR   uncaughtError: TypeError: undefined is not an object (evaluating 'window.ethereum.selectedAddress = undefined')
+[15:23:15.872] Server  LOG      ✓ Compiled in 14ms
+[15:24:22.419] Browser ERROR   uncaughtError: TypeError: undefined is not an object (evaluating 'window.ethereum.selectedAddress = undefined')
+[15:24:36.236] Browser ERROR   uncaughtError: TypeError: undefined is not an object (evaluating 'window.ethereum.selectedAddress = undefined')
+[15:25:32.948] Server  LOG      ✓ Compiled in 30ms
+[15:25:52.403] Browser ERROR   uncaughtError: TypeError: undefined is not an object (evaluating 'window.ethereum.selectedAddress = undefined')
+[15:26:02.072] Browser ERROR   uncaughtError: TypeError: undefined is not an object (evaluating 'window.ethereum.selectedAddress = undefined')
+[15:26:28.717] Server  LOG      ✓ Compiled in 52ms
+[15:26:39.200] Browser ERROR   uncaughtError: TypeError: undefined is not an object (evaluating 'window.ethereum.selectedAddress = undefined')
+[15:27:08.082] Browser ERROR   uncaughtError: TypeError: undefined is not an object (evaluating 'window.ethereum.selectedAddress = undefined')
+[15:28:00.728] Server  LOG      ✓ Compiled in 50ms
+[15:28:05.727] Browser ERROR   uncaughtError: TypeError: undefined is not an object (evaluating 'window.ethereum.selectedAddress = undefined')
+[15:28:10.512] Browser ERROR   uncaughtError: TypeError: undefined is not an object (evaluating 'window.ethereum.selectedAddress = undefined')
+[15:28:15.844] Browser ERROR   uncaughtError: TypeError: undefined is not an object (evaluating 'window.ethereum.selectedAddress = undefined')
+[15:28:39.207] Browser ERROR   uncaughtError: TypeError: undefined is not an object (evaluating 'window.ethereum.selectedAddress = undefined')
+[15:28:45.104] Browser ERROR   uncaughtError: TypeError: undefined is not an object (evaluating 'window.ethereum.selectedAddress = undefined')
+[15:30:35.340] Browser ERROR   uncaughtError: TypeError: undefined is not an object (evaluating 'window.ethereum.selectedAddress = undefined')
+[15:32:03.990] Server  LOG      ✓ Compiled in 24ms
+[15:32:30.374] Server  LOG      ✓ Compiled in 10ms
+[15:32:42.846] Browser ERROR   uncaughtError: TypeError: undefined is not an object (evaluating 'window.ethereum.selectedAddress = undefined')
+[15:35:03.875] Browser ERROR   uncaughtError: TypeError: undefined is not an object (evaluating 'window.ethereum.selectedAddress = undefined')
+[15:35:05.059] Browser ERROR   uncaughtError: TypeError: undefined is not an object (evaluating 'window.ethereum.emit')
+[15:35:05.059] Browser ERROR   uncaughtError: TypeError: undefined is not an object (evaluating 'window.ethereum.emit')
+[15:35:05.257] Browser ERROR   uncaughtError: TypeError: undefined is not an object (evaluating 'window.ethereum.selectedAddress = undefined')
+[15:35:05.257] Browser ERROR   uncaughtError: TypeError: undefined is not an object (evaluating 'window.ethereum.selectedAddress = undefined')
+[15:35:05.358] Browser ERROR   uncaughtError: TypeError: undefined is not an object (evaluating 'window.ethereum.selectedAddress = undefined')
+[15:35:08.647] Browser ERROR   uncaughtError: TypeError: undefined is not an object (evaluating 'window.ethereum.emit')
+[15:35:08.647] Browser ERROR   uncaughtError: TypeError: undefined is not an object (evaluating 'window.ethereum.selectedAddress = undefined')
+[15:35:08.647] Browser ERROR   uncaughtError: TypeError: undefined is not an object (evaluating 'window.ethereum.emit')
+[15:35:08.647] Browser ERROR   uncaughtError: TypeError: undefined is not an object (evaluating 'window.ethereum.selectedAddress = undefined')
+[15:35:08.647] Browser ERROR   uncaughtError: TypeError: undefined is not an object (evaluating 'window.ethereum.emit')
+[15:35:08.647] Browser ERROR   uncaughtError: TypeError: undefined is not an object (evaluating 'window.ethereum.selectedAddress = undefined')
+[15:35:11.910] Browser ERROR   uncaughtError: TypeError: undefined is not an object (evaluating 'window.ethereum.selectedAddress = undefined')
+[15:35:13.735] Browser ERROR   uncaughtError: TypeError: undefined is not an object (evaluating 'window.ethereum.selectedAddress = undefined')
+[15:35:24.331] Browser ERROR   uncaughtError: TypeError: undefined is not an object (evaluating 'window.ethereum.emit')
+[15:35:24.332] Browser ERROR   uncaughtError: TypeError: undefined is not an object (evaluating 'window.ethereum.selectedAddress = undefined')
+[15:35:24.691] Browser ERROR   uncaughtError: TypeError: undefined is not an object (evaluating 'window.ethereum.selectedAddress = undefined')
+[15:36:10.770] Browser ERROR   uncaughtError: TypeError: undefined is not an object (evaluating 'window.ethereum.selectedAddress = undefined')
+[15:36:57.316] Server  LOG      ✓ Compiled in 28ms
+[15:37:04.611] Browser ERROR   uncaughtError: TypeError: undefined is not an object (evaluating 'window.ethereum.selectedAddress = undefined')
+[15:43:40.219] Server  LOG      ✓ Compiled in 46ms
+[15:44:18.290] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[15:44:47.116] Server  LOG      ✓ Compiled in 51ms
+[15:45:35.775] Server  LOG      ✓ Compiled in 67ms
+[15:46:49.618] Server  LOG      ✓ Compiled in 54ms
+[15:47:36.760] Server  LOG      ✓ Compiled in 42ms
+[15:48:01.124] Server  LOG      ✓ Compiled in 50ms
+[15:48:29.760] Server  LOG      ✓ Compiled in 11ms
+[15:48:56.934] Server  LOG      ✓ Compiled in 12ms
+[15:49:22.372] Server  LOG      ✓ Compiled in 12ms
+[15:49:33.843] Server  LOG      ✓ Compiled in 30ms
+[15:49:48.611] Server  LOG      ✓ Compiled in 31ms
+[15:49:54.592] Server  LOG      ✓ Compiled in 10ms
+[15:49:58.514] Server  LOG      ✓ Compiled in 17ms
+[15:50:24.875] Server  LOG      ✓ Compiled in 23ms
+[15:50:33.197] Server  LOG      ✓ Compiled in 18ms
+[15:50:38.095] Server  LOG      ✓ Compiled in 17ms
+[15:50:42.140] Server  LOG      ✓ Compiled in 9ms
+[15:50:55.931] Server  LOG      ✓ Compiled in 17ms
+[15:51:29.720] Server  LOG      ✓ Compiled in 25ms
+[15:51:36.408] Server  LOG      ✓ Compiled in 9ms
+[15:51:40.670] Server  LOG      ✓ Compiled in 9ms
+[15:51:52.777] Server  LOG      ✓ Compiled in 13ms
+[15:52:01.202] Server  LOG      ✓ Compiled in 22ms
+[15:52:04.656] Server  LOG      ✓ Compiled in 11ms
+[15:52:07.194] Server  LOG      ✓ Compiled in 14ms
+[15:52:08.658] Server  LOG      ✓ Compiled in 8ms
+[15:52:40.760] Server  LOG      ✓ Compiled in 12ms
+[15:52:55.406] Server  LOG      ✓ Compiled in 15ms
+[15:53:15.553] Server  LOG      ✓ Compiled in 20ms
+[15:53:35.846] Server  LOG      ✓ Compiled in 11ms
+[15:53:45.004] Server  LOG      ✓ Compiled in 9ms
+[15:53:51.853] Server  LOG      ✓ Compiled in 12ms
+[15:53:54.035] Server  LOG      ✓ Compiled in 8ms
+[15:53:57.915] Server  LOG      ✓ Compiled in 10ms
+[15:55:15.116] Server  LOG      ✓ Compiled in 35ms
+[15:55:17.782] Server  LOG      ✓ Compiled in 12ms
+[15:55:19.627] Server  LOG      ✓ Compiled in 10ms
+[15:55:41.157] Server  LOG      ✓ Compiled in 14ms
+[15:55:45.021] Server  LOG      ✓ Compiled in 10ms
+[15:55:50.311] Server  LOG      ✓ Compiled in 11ms
+[15:55:56.649] Server  LOG      ✓ Compiled in 14ms
+[15:55:59.374] Server  LOG      ✓ Compiled in 9ms
+[15:56:00.696] Server  LOG      ✓ Compiled in 11ms
+[15:56:01.816] Server  LOG      ✓ Compiled in 9ms
+[17:17:46.832] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[17:17:47.927] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[17:17:49.017] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[17:20:57.089] Server  LOG      ✓ Compiled in 25ms
+[17:21:04.212] Server  LOG      ✓ Compiled in 11ms
+[17:21:38.732] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[17:21:48.533] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[17:22:07.965] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[17:22:57.674] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[17:23:18.581] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[17:24:49.706] Server  LOG      ✓ Compiled in 12ms
+[17:24:55.069] Server  LOG      ✓ Compiled in 17ms
+[17:25:02.940] Server  LOG      ✓ Compiled in 17ms
+[17:26:20.570] Server  LOG      ✓ Compiled in 45ms
+[17:27:27.611] Server  LOG      ✓ Compiled in 41ms
+[17:27:44.597] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[17:28:14.372] Server  LOG      ✓ Compiled in 66ms
+[17:28:19.784] Server  LOG      ✓ Compiled in 14ms
+[17:28:25.136] Server  LOG      ✓ Compiled in 14ms
+[17:28:30.380] Server  LOG      ✓ Compiled in 15ms
+[17:28:35.539] Server  LOG      ✓ Compiled in 16ms
+[17:29:15.268] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[17:29:32.865] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[17:30:36.959] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[18:59:35.056] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[18:59:36.342] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[19:04:28.167] Server  LOG      ✓ Compiled in 35ms
+[19:08:02.189] Server  LOG      ✓ Compiled in 11ms
+[19:08:07.850] Server  LOG      ✓ Compiled in 46ms
+[19:10:14.050] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[19:10:15.103] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[19:11:18.541] Server  LOG      ✓ Compiled in 59ms
+[19:11:36.085] Server  LOG      ✓ Compiled in 52ms
+[19:11:39.213] Server  LOG      ✓ Compiled in 30ms
+[19:11:40.565] Server  LOG      ✓ Compiled in 11ms
+[19:11:42.944] Server  LOG      ✓ Compiled in 33ms
+[19:11:46.584] Server  LOG      ✓ Compiled in 28ms
+[19:11:50.338] Server  LOG      ✓ Compiled in 13ms
+[19:11:56.663] Server  LOG      ✓ Compiled in 31ms
+[19:12:05.770] Server  LOG      ✓ Compiled in 29ms
+[19:12:42.999] Server  LOG      ✓ Compiled in 36ms
+[19:12:47.954] Server  LOG      ✓ Compiled in 51ms
+[19:13:39.556] Server  LOG      ✓ Compiled in 48ms
+[19:13:50.095] Server  LOG      ✓ Compiled in 25ms
+[19:14:05.432] Server  LOG      ✓ Compiled in 47ms
+[19:14:07.851] Server  LOG      ✓ Compiled in 11ms
+[19:14:11.192] Server  LOG      ✓ Compiled in 90ms
+[19:14:34.045] Server  LOG      ✓ Compiled in 41ms
+[19:14:34.154] Browser ERROR   ./app/day/[id]/page.tsx:143:13
+Parsing ecmascript source code failed
+  141 |
+  142 |         {(isSolved || showSolution) && r.text_solution && (
+> 143 |           {r.solution_audio && (
+      |             ^
+  144 |               <audio controls preload="auto" className="mt-4 w-full">
+  145 |                 <source src={r.solution_audio} type="audio/mpeg" />
+  146 |                 Your browser does not support the audio element.
+
+Expected a semicolon
+
+Import traces:
+  Client Component Browser:
+    ./app/day/[id]/page.tsx [Client Component Browser]
+    ./app/day/[id]/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/day/[id]/page.tsx [Client Component SSR]
+    ./app/day/[id]/page.tsx [Server Component]
+[19:14:59.220] Server  LOG      ✓ Compiled in 41ms
+[19:15:05.663] Server  LOG      ✓ Compiled in 38ms
+[19:15:20.324] Server  LOG      ✓ Compiled in 29ms
+[19:15:28.411] Server  LOG      ✓ Compiled in 20ms
+[19:15:28.514] Browser ERROR   ./app/day/[id]/page.tsx:143:13
+Parsing ecmascript source code failed
+  141 |
+  142 |         {(isSolved || showSolution) && r.text_solution && (
+> 143 |           {r.solution_clue && (
+      |             ^
+  144 |               <div className="mt-4 p-3 bg-gold/10 border border-gold/30 rounded-md solution-reveal mx-auto w-1/4">
+  145 |                 <h3 className="text-gold font-semibold mb-2 text-center">Lösungsfragment</h3>
+  146 |                 <p className="text-gold text-2xl font-mono text-center">{r.solution_clue}</p>
+
+Expected a semicolon
+
+Import traces:
+  Client Component Browser:
+    ./app/day/[id]/page.tsx [Client Component Browser]
+    ./app/day/[id]/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/day/[id]/page.tsx [Client Component SSR]
+    ./app/day/[id]/page.tsx [Server Component]
+[19:15:38.857] Server  LOG      ✓ Compiled in 11ms
+[19:24:25.598] Server  LOG      ✓ Compiled in 26ms
+[19:24:32.225] Server  LOG      ✓ Compiled in 115ms
+[19:29:00.214] Server  LOG      ✓ Compiled in 39ms
+[19:29:07.152] Server  LOG      ✓ Compiled in 144ms
+[19:29:12.377] Server  LOG      ✓ Compiled in 56ms
+[19:29:47.030] Server  LOG      ✓ Compiled in 35ms
+[19:30:49.970] Server  LOG      ✓ Compiled in 34ms
+[19:31:12.484] Server  LOG      ✓ Compiled in 28ms
+[19:32:20.671] Server  LOG      ✓ Compiled in 30ms
+[19:33:00.624] Server  LOG      ✓ Compiled in 45ms
+[19:33:23.557] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[19:33:24.761] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[19:34:16.428] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[19:34:17.797] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[19:43:07.538] Server  LOG      ✓ Compiled in 30ms
+[19:43:17.072] Server  LOG      ✓ Compiled in 54ms
+[19:43:22.516] Server  LOG      ✓ Compiled in 14ms
+[19:44:10.374] Server  LOG      ✓ Compiled in 25ms
+[19:44:18.150] Server  LOG      ✓ Compiled in 33ms
+[19:44:24.225] Server  LOG      ✓ Compiled in 30ms
+[19:44:31.685] Server  LOG      ✓ Compiled in 24ms
+[19:44:34.811] Server  LOG      ✓ Compiled in 11ms
+[19:44:46.041] Server  LOG      ✓ Compiled in 43ms
+[19:44:55.549] Server  LOG      ✓ Compiled in 50ms
+[19:44:59.727] Server  LOG      ✓ Compiled in 26ms
+[19:45:02.177] Server  LOG      ✓ Compiled in 20ms
+[19:45:04.224] Server  LOG      ✓ Compiled in 20ms
+[19:45:07.762] Server  LOG      ✓ Compiled in 9ms
+[19:45:22.280] Server  LOG      ✓ Compiled in 47ms
+[19:45:27.510] Server  LOG      ✓ Compiled in 25ms
+[37:34:25.832] Server  LOG      ✓ Compiled in 109ms
+[44:31:28.375] Server  LOG      ✓ Compiled in 58ms
+[44:31:45.897] Server  LOG      ✓ Compiled in 34ms
+[44:32:07.042] Server  LOG      ✓ Compiled in 33ms
+[44:34:35.028] Server  LOG      ✓ Compiled in 40ms
+[44:35:01.056] Server  LOG      ✓ Compiled in 22ms
+[44:36:53.415] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[44:37:24.291] Server  LOG      ✓ Compiled in 61ms
+[44:48:19.855] Server  LOG      ✓ Compiled in 39ms
+[44:48:24.882] Server  LOG      ✓ Compiled in 19ms
+[44:48:25.518] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[44:48:26.679] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[44:48:31.127] Server  LOG      ✓ Compiled in 27ms
+[44:49:07.648] Server  LOG      ✓ Compiled in 50ms
+[44:49:12.875] Server  LOG      ✓ Compiled in 16ms
+[44:49:17.275] Server  LOG      ✓ Compiled in 12ms
+[44:49:46.215] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[44:50:01.917] Server  LOG      ✓ Compiled in 44ms
+[44:50:29.889] Server  LOG      ✓ Compiled in 24ms
+[44:50:29.979] Browser ERROR   uncaughtError: ReferenceError: handleDragLeave is not defined
+[44:50:33.875] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[44:50:33.899] Server  LOG      ✓ Compiled in 14ms
+[44:50:34.460] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[44:50:39.551] Server  LOG      ✓ Compiled in 38ms
+[44:50:45.037] Server  LOG      ✓ Compiled in 29ms
+[44:50:45.230] Browser ERROR   uncaughtError: ReferenceError: handleDrop is not defined
+[44:50:46.480] Browser ERROR   uncaughtError: ReferenceError: handleDrop is not defined
+[44:50:49.107] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[44:50:50.903] Browser ERROR   uncaughtError: ReferenceError: handleDrop is not defined
+[44:50:50.949] Server  LOG      ✓ Compiled in 27ms
+[44:50:51.055] Browser ERROR   ./app/day/[id]/page.tsx:132:9
+Ecmascript file had an error
+  130 |   };
+  131 |
+> 132 |   const handleDragEnd = (e: React.DragEvent) => {
+      |         ^^^^^^^^^^^^^
+  133 |     setDraggedSymbol(null);
+  134 |     (e.target as HTMLElement).classList.remove('dragging');
+  135 |     // Remove drag-over class from all elements
+
+the name `handleDragEnd` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./app/day/[id]/page.tsx [Client Component Browser]
+    ./app/day/[id]/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/day/[id]/page.tsx [Client Component SSR]
+    ./app/day/[id]/page.tsx [Server Component]
+[44:51:02.842] Server  LOG      ✓ Compiled in 28ms
+[44:51:06.764] Server  LOG      ✓ Compiled in 9ms
+[56:20:49.655] Server  LOG      ✓ Compiled in 17ms
+[56:21:06.668] Server  LOG      ✓ Compiled in 15ms
+[56:21:11.981] Server  LOG      ✓ Compiled in 11ms
+[56:21:12.066] Browser ERROR   uncaughtError: ReferenceError: symbols is not defined
+[56:21:17.723] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[56:21:17.742] Server  LOG      ✓ Compiled in 11ms
+[56:21:18.177] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[56:21:18.305] Browser ERROR   uncaughtError: ReferenceError: symbols is not defined
+[56:21:23.941] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[56:21:24.016] Server  LOG      ✓ Compiled in 78ms
+[56:21:24.168] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[56:32:31.634] Server  LOG      ✓ Compiled in 92ms
+[56:32:36.977] Server  LOG      ✓ Compiled in 18ms
+[56:32:45.233] Server  LOG      ✓ Compiled in 7ms
+[56:33:40.450] Server  LOG      ✓ Compiled in 27ms
+[56:35:25.987] Server  LOG      ✓ Compiled in 13ms
+[56:35:29.988] Server  LOG      ✓ Compiled in 7ms
+[56:35:30.880] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[56:35:30.880] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[56:35:30.880] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[56:35:30.880] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[56:35:30.880] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[56:35:30.880] Browser ERROR   Image is missing required "src" property: <img>
+[56:35:30.880] Browser ERROR   Image is missing required "src" property: <img>
+[56:35:30.880] Browser ERROR   Image is missing required "src" property: <img>
+[56:35:30.880] Browser ERROR   Image is missing required "src" property: <img>
+[56:35:30.880] Browser ERROR   Image is missing required "src" property: <img>
+[56:35:48.853] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[56:35:48.972] Browser WARN    Image with src "/images/riddles/symbol-2.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[56:42:47.062] Server  LOG      ✓ Compiled in 49ms
+[56:43:38.711] Server  LOG      ✓ Compiled in 34ms
+[56:43:48.620] Server  LOG      ✓ Compiled in 14ms
+[56:43:52.918] Server  LOG      ✓ Compiled in 15ms
+[56:44:45.331] Server  LOG      ✓ Compiled in 17ms
+[56:44:59.773] Server  LOG      ✓ Compiled in 13ms
+[56:45:02.349] Server  LOG      ✓ Compiled in 13ms
+[56:45:13.841] Server  LOG      ✓ Compiled in 32ms
+[56:45:16.396] Server  LOG      ✓ Compiled in 10ms
+[56:47:08.059] Server  LOG      ✓ Compiled in 10ms
+[56:47:13.672] Server  LOG      ✓ Compiled in 7ms
+[56:47:17.528] Server  LOG      ✓ Compiled in 8ms
+[56:48:18.415] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[56:48:18.554] Browser WARN    Image with src "/images/riddles/symbol-3.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[56:50:11.587] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[56:50:11.719] Browser WARN    Image with src "/images/riddles/symbol-5.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[56:50:59.874] Server  LOG      ✓ Compiled in 34ms
+[56:51:02.429] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[56:51:02.546] Browser WARN    Image with src "/images/riddles/symbol-3.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[56:51:04.083] Browser LOG     false
+[56:51:05.506] Browser LOG     true
+[56:51:40.645] Server  LOG      ✓ Compiled in 20ms
+[56:51:48.945] Server  LOG      ✓ Compiled in 7ms
+[56:51:57.266] Server  LOG      ✓ Compiled in 8ms
+[56:52:05.411] Server  LOG      ✓ Compiled in 11ms
+[56:52:21.799] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[56:52:21.932] Browser WARN    Image with src "/images/riddles/symbol-3.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[56:52:28.338] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[56:52:39.181] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[56:52:39.304] Browser WARN    Image with src "/images/riddles/symbol-4.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[56:52:57.533] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[56:52:57.533] Browser ERROR   uncaughtError: TypeError: progress.includes is not a function
+[56:53:04.149] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[56:53:04.286] Browser WARN    Image with src "/images/riddles/symbol-2.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[56:53:10.347] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[56:53:10.483] Browser WARN    Image with src "/images/riddles/symbol-3.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[56:53:11.311] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[56:53:11.442] Browser WARN    Image with src "/images/riddles/symbol-5.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[56:53:18.961] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[56:53:19.095] Browser WARN    Image with src "/images/riddles/symbol-2.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[56:54:56.072] Server  LOG      ✓ Compiled in 31ms
+[56:55:41.204] Server  LOG      ✓ Compiled in 38ms
+[56:55:47.554] Server  LOG      ✓ Compiled in 8ms
+[56:55:52.882] Server  LOG      ✓ Compiled in 17ms
+[56:56:03.417] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[56:56:03.583] Browser WARN    Image with src "/images/riddles/symbol-4.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[56:56:40.903] Server  LOG      ✓ Compiled in 18ms
+[56:56:46.833] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[56:56:46.968] Browser WARN    Image with src "/images/riddles/symbol-4.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[56:57:31.390] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
+      <AppDevOverlayErrorBoundary globalError={[...]}>
+        <ReplaySsrOnlyErrors>
+        <DevRootHTTPAccessFallbackBoundary>
+          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+            <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<NotAllowedRootHTTPFallbackError>} ...>
+              <RedirectBoundary>
+                <RedirectErrorBoundary router={{...}}>
+                  <Head>
+                  <__next_root_layout_boundary__>
+                    <SegmentViewNode type="layout" pagePath="layout.tsx">
+                      <SegmentTrieNode>
+                      <link>
+                      <script>
+                      <script>
+                      <RootLayout>
+                        <html
+                          lang="de"
+                          className="inter_5901b7c6-module__ec5Qua__variable playfair_display_dc3b86c2-module__wRxeBG_..."
+-                         __gchrome_remoteframetoken="99935ad8fc68eb28bfa3b7da529303f2"
+                        >
+                  ...
+
+[56:57:40.631] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
+      <AppDevOverlayErrorBoundary globalError={[...]}>
+        <ReplaySsrOnlyErrors>
+        <DevRootHTTPAccessFallbackBoundary>
+          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+            <HTTPAccessFallbackErrorBoundary pathname="/day/1" notFound={<NotAllowedRootHTTPFallbackError>} ...>
+              <RedirectBoundary>
+                <RedirectErrorBoundary router={{...}}>
+                  <Head>
+                  <__next_root_layout_boundary__>
+                    <SegmentViewNode type="layout" pagePath="layout.tsx">
+                      <SegmentTrieNode>
+                      <link>
+                      <script>
+                      <script>
+                      <RootLayout>
+                        <html
+                          lang="de"
+                          className="inter_5901b7c6-module__ec5Qua__variable playfair_display_dc3b86c2-module__wRxeBG_..."
+-                         __gchrome_remoteframetoken="5f039884747bbced8bc304778a895807"
+                        >
+                  ...
+
+[56:57:53.216] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
+      <AppDevOverlayErrorBoundary globalError={[...]}>
+        <ReplaySsrOnlyErrors>
+        <DevRootHTTPAccessFallbackBoundary>
+          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+            <HTTPAccessFallbackErrorBoundary pathname="/day/1" notFound={<NotAllowedRootHTTPFallbackError>} ...>
+              <RedirectBoundary>
+                <RedirectErrorBoundary router={{...}}>
+                  <Head>
+                  <__next_root_layout_boundary__>
+                    <SegmentViewNode type="layout" pagePath="layout.tsx">
+                      <SegmentTrieNode>
+                      <link>
+                      <script>
+                      <script>
+                      <RootLayout>
+                        <html
+                          lang="de"
+                          className="inter_5901b7c6-module__ec5Qua__variable playfair_display_dc3b86c2-module__wRxeBG_..."
+-                         __gchrome_remoteframetoken="6e583e3797101326217c54a5fd3182d0"
+                        >
+                  ...
+
+[56:58:38.463] Server  LOG      ✓ Compiled in 18ms
+[56:58:45.493] Server  LOG      ✓ Compiled in 11ms
+[56:58:50.917] Server  LOG      ✓ Compiled in 26ms
+[56:58:55.519] Server  LOG      ✓ Compiled in 11ms
+[56:58:59.644] Server  LOG      ✓ Compiled in 11ms
+[56:59:04.029] Server  LOG      ✓ Compiled in 14ms
+[56:59:08.473] Server  LOG      ✓ Compiled in 10ms
+[56:59:22.069] Server  LOG      ✓ Compiled in 44ms
+[57:00:07.779] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[57:00:07.915] Browser WARN    Image with src "/images/riddles/symbol-4.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[57:00:33.837] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
+      <AppDevOverlayErrorBoundary globalError={[...]}>
+        <ReplaySsrOnlyErrors>
+        <DevRootHTTPAccessFallbackBoundary>
+          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+            <HTTPAccessFallbackErrorBoundary pathname="/day/2" notFound={<NotAllowedRootHTTPFallbackError>} ...>
+              <RedirectBoundary>
+                <RedirectErrorBoundary router={{...}}>
+                  <Head>
+                  <__next_root_layout_boundary__>
+                    <SegmentViewNode type="layout" pagePath="layout.tsx">
+                      <SegmentTrieNode>
+                      <link>
+                      <script>
+                      <script>
+                      <RootLayout>
+                        <html
+                          lang="de"
+                          className="inter_5901b7c6-module__ec5Qua__variable playfair_display_dc3b86c2-module__wRxeBG_..."
+-                         __gchrome_remoteframetoken="32e3f705daf675f8abdfcf67f5d6bf36"
+                        >
+                  ...
+
+[57:02:03.791] Server  LOG      ✓ Compiled in 40ms
+[57:02:09.098] Server  LOG      ✓ Compiled in 12ms
+[57:02:14.135] Server  LOG      ✓ Compiled in 12ms
+[57:02:20.723] Server  LOG      ✓ Compiled in 10ms
+[57:02:30.825] Server  LOG      ✓ Compiled in 20ms
+[57:02:36.523] Server  LOG      ✓ Compiled in 10ms
+[57:02:46.304] Server  LOG      ✓ Compiled in 11ms
+[57:04:26.825] Server  LOG      ✓ Compiled in 66ms
+[57:04:37.615] Server  LOG      ✓ Compiled in 8ms
+[57:04:40.788] Server  LOG      ✓ Compiled in 13ms
+[57:04:43.524] Server  LOG      ✓ Compiled in 14ms
+[57:04:45.673] Server  LOG      ✓ Compiled in 34ms
+[57:04:48.982] Server  LOG      ✓ Compiled in 15ms
+[57:05:18.095] Server  LOG      ✓ Compiled in 18ms
+[57:05:21.960] Server  LOG      ✓ Compiled in 116ms
+[57:06:30.333] Server  LOG      ✓ Compiled in 30ms
+[57:07:04.316] Server  LOG      ✓ Compiled in 34ms
+[57:07:29.090] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[57:07:37.619] Server  LOG      ✓ Compiled in 34ms
+[57:09:39.739] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[57:10:40.509] Server  LOG      ✓ Compiled in 48ms
+[57:10:45.717] Server  LOG      ✓ Compiled in 14ms
+[118:19:24.520] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[118:19:25.819] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[216:26:57.840] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
+      <AppDevOverlayErrorBoundary globalError={[...]}>
+        <ReplaySsrOnlyErrors>
+        <DevRootHTTPAccessFallbackBoundary>
+          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+            <HTTPAccessFallbackErrorBoundary pathname="/day/2" notFound={<NotAllowedRootHTTPFallbackError>} ...>
+              <RedirectBoundary>
+                <RedirectErrorBoundary router={{...}}>
+                  <Head>
+                  <__next_root_layout_boundary__>
+                    <SegmentViewNode type="layout" pagePath="layout.tsx">
+                      <SegmentTrieNode>
+                      <link>
+                      <script>
+                      <script>
+                      <RootLayout>
+                        <html
+                          lang="de"
+                          className="inter_5901b7c6-module__ec5Qua__variable playfair_display_dc3b86c2-module__wRxeBG_..."
+-                         __gchrome_remoteframetoken="3324b99db94ad90d30c67d37e5d825cf"
+                        >
+                  ...
+
+[216:36:40.268] Server  LOG      ✓ Compiled in 168ms
+[216:36:47.061] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[216:36:48.395] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[216:37:47.273] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[216:38:48.206] Server  LOG      ✓ Compiled in 26ms
+[216:41:12.746] Server  LOG      ✓ Compiled in 32ms
+[216:41:49.081] Server  LOG      ✓ Compiled in 34ms
+[216:43:09.784] Server  LOG      ✓ Compiled in 34ms
+[216:44:13.810] Server  LOG      ✓ Compiled in 24ms
+[216:48:19.651] Server  LOG      ✓ Compiled in 27ms
+[216:51:10.739] Server  LOG      ✓ Compiled in 25ms
+[216:52:41.080] Server  LOG      ✓ Compiled in 22ms
+[216:53:24.709] Server  LOG      ✓ Compiled in 30ms
+[216:54:06.815] Server  LOG      ✓ Compiled in 26ms
+[216:55:58.577] Server  LOG      ✓ Compiled in 33ms
+[216:56:45.240] Server  LOG      ✓ Compiled in 24ms
+[216:57:34.244] Server  LOG      ✓ Compiled in 21ms
+[216:57:58.783] Server  LOG      ✓ Compiled in 23ms
+[216:58:51.178] Server  LOG      ✓ Compiled in 22ms
+[216:59:00.872] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[217:02:19.265] Server  LOG      ✓ Compiled in 47ms
+[217:49:17.176] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[217:49:26.518] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[217:49:46.728] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[217:51:10.064] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[217:51:48.591] Server  LOG      ✓ Compiled in 42ms
+[217:52:30.250] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[217:53:24.892] Server  LOG      ✓ Compiled in 53ms
+[217:53:30.968] Server  LOG      ✓ Compiled in 81ms
+[217:53:37.767] Server  LOG      ✓ Compiled in 31ms
+[217:53:48.469] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[217:54:56.972] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[217:55:09.383] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[217:55:20.276] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[217:55:20.414] Browser WARN    Image with src "/images/riddles/symbol-4.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[217:55:22.930] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[217:56:34.581] Server  LOG      ✓ Compiled in 46ms
+[217:56:39.943] Server  LOG      ✓ Compiled in 15ms
+[217:56:45.505] Server  LOG      ✓ Compiled in 55ms
+[217:56:56.020] Server  LOG      ✓ Compiled in 43ms
+[217:57:01.542] Server  LOG      ✓ Compiled in 47ms
+[217:57:06.115] Server  LOG      ✓ Compiled in 29ms
+[217:57:10.150] Server  LOG      ✓ Compiled in 40ms
+[217:57:13.848] Server  LOG      ✓ Compiled in 30ms
+[217:57:18.012] Server  LOG      ✓ Compiled in 10ms
+[217:57:22.223] Server  LOG      ✓ Compiled in 27ms
+[217:57:43.515] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[217:57:50.061] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[217:58:13.514] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[217:58:14.836] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[217:58:21.384] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[217:59:16.986] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[217:59:25.712] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[217:59:27.048] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[218:16:52.802] Server  LOG      ✓ Compiled in 65ms
+[218:16:59.834] Server  LOG      ✓ Compiled in 37ms
+[218:17:04.031] Server  LOG      ✓ Compiled in 16ms
+[218:20:05.095] Server  LOG      ✓ Compiled in 20ms
+[218:20:14.628] Server  LOG      ✓ Compiled in 51ms
+[218:20:27.488] Server  LOG      ✓ Compiled in 59ms
+[218:20:42.664] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[218:20:42.802] Browser WARN    Image with src "/images/riddles/symbol-9.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[218:21:30.809] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[218:21:30.953] Browser WARN    Image with src "/images/riddles/symbol-9.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[218:22:06.518] Server  LOG      ✓ Compiled in 34ms
+[218:22:25.602] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[218:22:25.767] Browser WARN    Image with src "/images/riddles/symbol-9.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[218:22:53.068] Server  LOG      ✓ Compiled in 52ms
+[218:23:00.294] Server  LOG      ✓ Compiled in 34ms
+[218:23:13.885] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[218:23:14.012] Browser WARN    Image with src "/images/riddles/symbol-9.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[218:24:26.500] Server  LOG      ✓ Compiled in 20ms
+[218:25:54.103] Server  LOG      ✓ Compiled in 22ms
+[218:26:29.202] Server  LOG      ✓ Compiled in 29ms
+[218:27:10.192] Server  LOG      ✓ Compiled in 20ms
+[218:27:29.557] Server  LOG      ✓ Compiled in 26ms
+[218:28:03.011] Server  LOG      ✓ Compiled in 20ms
+[218:28:52.347] Server  LOG      ✓ Compiled in 19ms
+[218:33:18.254] Server  LOG      ✓ Compiled in 39ms
+[218:38:50.023] Server  LOG      ✓ Compiled in 22ms
+[218:42:26.491] Server  LOG      ✓ Compiled in 38ms
+[218:43:31.725] Server  LOG      ✓ Compiled in 23ms
+[218:43:45.357] Server  LOG      ✓ Compiled in 15ms
+[218:44:19.178] Server  LOG      ✓ Compiled in 34ms
+[218:46:11.545] Server  LOG      ✓ Compiled in 28ms
+[218:46:38.480] Server  LOG      ✓ Compiled in 19ms
+[218:46:46.777] Server  LOG      ✓ Compiled in 22ms
+[218:52:35.277] Server  LOG      ✓ Compiled in 32ms
+[218:53:28.073] Server  LOG      ✓ Compiled in 19ms
+[218:53:40.582] Server  LOG      ✓ Compiled in 11ms
+[218:54:30.298] Server  LOG      ✓ Compiled in 28ms
+[218:54:37.986] Server  LOG      ✓ Compiled in 17ms
+[219:13:24.030] Server  LOG      ✓ Compiled in 27ms
+[219:14:17.960] Server  LOG      ✓ Compiled in 22ms
