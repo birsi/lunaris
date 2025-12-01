@@ -278,7 +278,7 @@ Der Zirkel war nicht mehr weit.
   {
     id: 17,
     title: "Die Stadt aus Glas",
-    text: "TBD",
+    text: " Ein Dreieck, dem eine Line fehlt. Wie heißt sie?",
     text_solution: `<p>Als Larissa die fehlende Linie in Gedanken ergänzte, leuchtete die gläserne Wand auf. Ein Teil der Fassade löste sich und wurde zu einem goldenen Fragment.</p>
 <p>Doch da hörte sie im Nebel eine Stimme.
 Nicht Aureon.
@@ -296,7 +296,7 @@ Der Nebel fraß die Worte, bevor sie sich umdrehen konnte.
   {
     id: 18,
     title: "Der goldene Staub",
-    text: "TBD",
+    text: "Suche den Ort, wo das Licht in der Mitte pulsierend scheint",
     text_solution: `<p>Der Staub um sie herum wirbelte auf und verdichtete sich. Ein leuchtender Splitter entstand daraus und sank in ihre Hand.</p>
 <p>Doch diesmal geschah mehr:
  Der Himmel flackerte.
@@ -304,16 +304,16 @@ Der Nebel fraß die Worte, bevor sie sich umdrehen konnte.
 <p>Larissa fröstelte.
 Das Gleichgewicht begann zu kippen.
 </p>`,
-    code: "S",
+    code: "Wahrheit",
     image: "/images/days/18.png",
     solution_audio: "/audio/solution-18.mp3",
-    solution_clue: "Das ist ein Hinweis",
+    solution_clue: "Merke dir das Wort um das nächste Rätsel zu lösen.",
     puzzle_type: "text-input",
   },
   {
     id: 19,
     title: "Die verschollene Formel",
-    text: "TBD",
+    text: "Suche den Ort, wo das Licht in der Mitte pulsierend scheint",
     text_solution: `<p>Als sie die Wortteile zusammensetzte, reagierte das Notizbuch. Die fehlende Formel erschien, ein Lichtspalt öffnete sich, und ein Fragment glitt heraus.</p>
 <p>Dann, im Halbdunkel, sah sie etwas:
  Eine Gestalt am Ende des Klostergangs.
@@ -324,16 +324,16 @@ Diesmal rannte sie nicht davon.
 Larissa wusste:
  Es war eine Warnung.
 </p>`,
-    code: "S",
+    code: "Special",
     image: "/images/days/19.png",
     solution_audio: "/audio/solution-19.mp3",
-    solution_clue: "Das ist ein Hinweis",
+    solution_clue: "Runter Rechts Runter Links Runter",
     puzzle_type: "text-input",
   },
   {
     id: 20,
     title: "Der Turm ohne Schatten",
-    text: "TBD",
+    text: "Folge den Pfeilen...",
     text_solution: `<p>Als Larissa die Rune berührte, brach ein einzelner Lichtstrahl durch die Decke, leuchtete auf die Kartenlinie — und verwandelte sich in ein Fragment.</p>
 <p>Dann hörte sie Schritte hinter sich.
 Aureon.
@@ -342,16 +342,16 @@ Aureon.
 <p>Sein Blick war schwer.
  Und voller Wahrheit, die sie noch nicht kannte.
 </p>`,
-    code: "S",
+    code: "Suche",
     image: "/images/days/20.png",
     solution_audio: "/audio/solution-20.mp3",
-    solution_clue: "Das ist ein Hinweis",
+    solution_clue: "Suche dort wo sich zu Hause die Bilder bewegen...",
     puzzle_type: "text-input",
   },
   {
     id: 21,
     title: "Das Herz des Nordlichts",
-    text: "TBD",
+    text: "Mit dem Hinweis aus der Cluebox, löse diese Formel.",
     text_solution: `<p>Die Kugel pulsierte.
  Der Wind hielt den Atem an.</p>
 <p>Aureon sah sie an, und in seinen Augen lag Sorge, Vertrauen — und Furcht.
@@ -360,7 +360,7 @@ Aureon.
 <p>Larissa nickte.
  Sie wusste, es gab kein Zurück mehr.
 </p>`,
-    code: "S",
+    code: "23",
     image: "/images/days/21.png",
     solution_audio: "/audio/solution-21.mp3",
     solution_clue: "G",
@@ -369,7 +369,7 @@ Aureon.
   {
     id: 22,
     title: "Der Schlüssel im Staub",
-    text: "TBD",
+    text: "Füge Dinge zusammen!",
     text_solution: `<p>Als sie den Buchstaben sprach, vibrierte der Steinboden. Ein winziger Schlüssel löste sich aus der Spirale, schimmernd wie Metall, aber warm wie Haut.
 Aureon trat neben sie.
 </p>
@@ -377,7 +377,7 @@ Aureon trat neben sie.
 Doch bevor er weitersprechen konnte, bebte der Turm.
 </p>
 <p>Der Zirkel war unter ihnen.</p>`,
-    code: "S",
+    code: "O",
     image: "/images/days/22.png",
     solution_audio: "/audio/solution-22.mp3",
     solution_clue: "N",
@@ -386,7 +386,7 @@ Doch bevor er weitersprechen konnte, bebte der Turm.
   {
     id: 23,
     title: "Der Verrat im Licht",
-    text: "TBD",
+    text: "Du hast alle Runen gesammelt! Warte auf morgen!",
     text_solution: `<p>Das Fach öffnete sich, und darin lag das vorletzte Fragment — größer, heller, schwerer als alle zuvor.
 </p>
 <p>Als Larissa es berührte, verband sich jedes Fragment in ihrer Tasche, vibrierend wie ein Herz.
@@ -395,16 +395,16 @@ Aureon sah sie an.
  „Ein Wort, das du schon längst kennst.“
 </p>
 <p>Larissa spürte, wie sich alles um sie herum zusammenzog.</p>`,
-    code: "S",
+    code: "None",
     image: "/images/days/23.png",
     solution_audio: "/audio/solution-23.mp3",
-    solution_clue: "Das ist ein Hinweis",
+    solution_clue: "None",
     puzzle_type: "text-input",
   },
   {
     id: 24,
     title: "Das Licht erwacht",
-    text: "TBD",
+    text: "Sprich das Wort und das Licht erwacht!",
     text_solution: `<p>Als Larissa das Wort sprach, brach das Licht hervor — warm, hell, unaufhaltsam.
  Die Funken stiegen in den Himmel, zersplitterten in tausend goldene Sterne.
 </p>
