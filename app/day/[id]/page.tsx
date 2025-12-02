@@ -75,7 +75,7 @@ export default function DayPage({ params }: { params: Promise<{ id: string }> })
           openDay(n);
           setShowSolution(true);
         }
-      }, 1000);
+      }, 200);
       return;
     }
 

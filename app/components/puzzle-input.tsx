@@ -194,6 +194,19 @@ export function PuzzleInput({
     );
   }
 
+  if (puzzleType === 'special') {
+    return (
+      <div className="text-center py-4">
+        <div className="text-gold/80 text-lg font-serif">
+          ✨ Das Rätsel des Lichts ist noch nicht gelöst! ✨
+        </div>
+        <div className="text-gold/60 text-sm mt-2">
+          Das Licht jedoch hat dich hierhergeführt... Suche den Ort des Lichts und berühre ihn!
+        </div>
+      </div>
+    );
+  }
+
   // Default text input
   return (
     <>

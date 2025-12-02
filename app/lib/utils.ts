@@ -21,3 +21,13 @@ export function getOverrideDay(): number | null {
   return null;
 }
 
+// Check if the effective date (considering override) is December 19th
+export function isDecember19th(): boolean {
+  const override = getOverrideDay();
+  if (override !== null) {
+    return override === 19;
+  }
+  const now = new Date();
+  return now.getMonth() === 11 && now.getDate() === 19;
+}
+

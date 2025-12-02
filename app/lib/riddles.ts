@@ -3,7 +3,7 @@ export type Symbol = {
   src: string;
 };
 
-export type PuzzleType = 'text-input' | 'drag-drop';
+export type PuzzleType = 'text-input' | 'drag-drop' | 'special';
 
 export type Riddle = {
   id: number;
@@ -296,7 +296,7 @@ Der Nebel fraß die Worte, bevor sie sich umdrehen konnte.
   {
     id: 18,
     title: "Der goldene Staub",
-    text: "Suche den Ort, wo das Licht in der Mitte pulsierend scheint",
+    text: "Wo findest du das Symbol? Es wird dich weiterbringen.",
     text_solution: `<p>Der Staub um sie herum wirbelte auf und verdichtete sich. Ein leuchtender Splitter entstand daraus und sank in ihre Hand.</p>
 <p>Doch diesmal geschah mehr:
  Der Himmel flackerte.
@@ -313,7 +313,7 @@ Das Gleichgewicht begann zu kippen.
   {
     id: 19,
     title: "Die verschollene Formel",
-    text: "Suche den Ort, wo das Licht in der Mitte pulsierend scheint",
+    text: "Suche den Ort des Lichts und berühre ihn!",
     text_solution: `<p>Als sie die Wortteile zusammensetzte, reagierte das Notizbuch. Die fehlende Formel erschien, ein Lichtspalt öffnete sich, und ein Fragment glitt heraus.</p>
 <p>Dann, im Halbdunkel, sah sie etwas:
  Eine Gestalt am Ende des Klostergangs.
@@ -328,7 +328,7 @@ Larissa wusste:
     image: "/images/days/19.png",
     solution_audio: "/audio/solution-19.mp3",
     solution_clue: "Runter Rechts Runter Links Runter",
-    puzzle_type: "text-input",
+    puzzle_type: "special",
   },
   {
     id: 20,

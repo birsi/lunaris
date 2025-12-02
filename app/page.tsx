@@ -29,7 +29,7 @@ function DefaultHome() {
 }
 
 function HomePage({ token, user, hasOverride }: { token: string; user: string; hasOverride: boolean }) {
-  const { progress } = useLocalProgress(token);
+  const { progress, openDay } = useLocalProgress(token);
 
   // Use base date for initial render to match SSR; apply override after mount
   const [today, setToday] = useState(() => getCurrentDayBase());
@@ -81,7 +81,12 @@ function HomePage({ token, user, hasOverride }: { token: string; user: string; h
       <div className="w-7/12 mx-auto mb-7 h-px" style={{ background: 'linear-gradient(to right, transparent, rgb(244, 230, 194), transparent)' }} />
 
       <div className="relative mt-4 mx-auto w-[85vw] h-[85vw] max-w-[520px] max-h-[520px]">
-        <LightCircle unlocked={progress} today={today} hasOverride={hasOverride} />
+        <LightCircle 
+          unlocked={progress} 
+          today={today} 
+          hasOverride={hasOverride}
+          onSpecialDayClick={() => openDay(19)}
+        />
       </div>
 
       {solvedClues.length > 0 && (
