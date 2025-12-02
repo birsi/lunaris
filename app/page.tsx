@@ -28,7 +28,7 @@ function DefaultHome() {
   );
 }
 
-function HomePage({ token, user, hasOverride }: { token: string; user: string; hasOverride: boolean }) {
+function HomePage({ token, user }: { token: string; user: string }) {
   const { progress, openDay } = useLocalProgress(token);
 
   // Use base date for initial render to match SSR; apply override after mount
@@ -84,7 +84,6 @@ function HomePage({ token, user, hasOverride }: { token: string; user: string; h
         <LightCircle 
           unlocked={progress} 
           today={today} 
-          hasOverride={hasOverride}
           onSpecialDayClick={() => openDay(19)}
         />
       </div>
@@ -110,7 +109,6 @@ export default function Page() {
   const [mounted, setMounted] = useState(false);
   const [token, setToken] = useState<string | null>(null);
   const [user, setUser] = useState<string | null>(null);
-  const [hasOverride, setHasOverride] = useState(false);
   const router = useRouter();
 
   useEffect(() => {
@@ -123,7 +121,6 @@ export default function Page() {
           const u = localStorage.getItem(`advent:user:${t}`);
           setUser(u);
         }
-        setHasOverride(getOverrideDay() !== null);
       } catch {}
       setMounted(true);
     });
@@ -139,7 +136,6 @@ export default function Page() {
           } else {
             setUser(null);
           }
-          setHasOverride(getOverrideDay() !== null);
         } catch {}
       });
     };
@@ -172,5 +168,5 @@ export default function Page() {
   }
 
 
-  return <HomePage token={token} user={user} hasOverride={hasOverride} />;
+  return <HomePage token={token} user={user} />;
 }

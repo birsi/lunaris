@@ -8,13 +8,11 @@ export default function LightCircle({
   count = 24,
   unlocked = [],
   today,
-  hasOverride = false,
   onSpecialDayClick,
 }: {
   count?: number;
   unlocked: number[];
   today?: number;
-  hasOverride?: boolean;
   onSpecialDayClick?: () => void;
 }) {
   const router = useRouter();
@@ -43,7 +41,7 @@ export default function LightCircle({
         const y = 50 + radius * Math.sin(angle);
         const isSolved = unlocked.includes(n);
         const isToday = n === today;
-        const isClickable = isSolved || (today !== undefined && ((n <= today) || (hasOverride && n > today)));
+        const isClickable = isSolved || (today !== undefined && n <= today);
 
         const circleContent = (
           <div

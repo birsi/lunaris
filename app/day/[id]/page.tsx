@@ -34,9 +34,8 @@ export default function DayPage({ params }: { params: Promise<{ id: string }> })
   const { progress, openDay } = useLocalProgress(token);
   const isSolved = progress.includes(n);
   // Only determine accessibility after we've applied client-side override
-  // Past days (n <= currentDay) are always accessible
-  // Future days (n > currentDay) are only accessible with override OR if solved
-  const isAccessible = currentDayResolved ? (n <= currentDay) || isSolved || (hasOverride && n > currentDay) : isSolved;
+  // Days up to currentDay are accessible, plus any solved days
+  const isAccessible = currentDayResolved ? (n <= currentDay) || isSolved : isSolved;
   useEffect(() => {
     const handle = () => {
       if (typeof window !== 'undefined') {
