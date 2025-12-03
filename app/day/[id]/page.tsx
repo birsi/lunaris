@@ -220,7 +220,7 @@ export default function DayPage({ params }: { params: Promise<{ id: string }> })
           <div className="mb-4">
             <div className="solution-divider" />
             {r.solution_clue && (
-              <div className="mt-4 p-3 bg-gold/10 border border-gold/30 rounded-md solution-reveal mx-auto w-max">
+              <div className="mt-4 p-3 bg-gold/10 border border-gold/30 rounded-md solution-reveal mx-auto w-full max-w-xs sm:max-w-sm md:max-w-md">
                 <h3 className="text-gold font-semibold mb-2 text-center">Lösungsfragment</h3>
                 <p className={`text-gold text-center glow-text ${r.solution_clue.length === 1 ? 'text-2xl font-mono' : 'text-lg font-normal'}`}>{r.solution_clue}</p>
               </div>
