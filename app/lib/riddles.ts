@@ -64,7 +64,7 @@ export const riddles: Riddle[] = [
     code: "Weiße Tasse",
     image: "/images/days/3.png",
     solution_audio: "/audio/solution-3.mp3",
-    solution_clue: "Das ist ein Hinweis",
+    solution_clue: "Die Symbole werden dir weiterhelfen. Warte auf den nächsten Hinweis.",
     puzzle_type: "text-input",
   },
   {
@@ -78,7 +78,7 @@ export const riddles: Riddle[] = [
     code: "Wärme",
     image: "/images/days/4.png",
     solution_audio: "/audio/solution-4.mp3",
-    solution_clue: "Die Symbole von Tag 3 werden dich zu Büchern führen.",
+    solution_clue: "Wenn der richtige Moment gekommen ist, findest du die Symbole dort, wo Geschichten schlafen und Wissen schweigt.",
     puzzle_type: "text-input",
   },
   {
@@ -141,7 +141,7 @@ export const riddles: Riddle[] = [
     code: "Fragmente",
     image: "/images/days/8.png",
     solution_audio: "/audio/solution-8.mp3",
-    solution_clue: "Das ist ein Hinweis",
+    solution_clue: "Etwas fehlt. Du wirst es in den nächsten Tagen finden.",
     puzzle_type: "text-input",
   },
   {
@@ -237,7 +237,7 @@ Der Zirkel war nicht mehr weit.
     code: "144",
     image: "/images/days/14.png",
     solution_audio: "/audio/solution-14.mp3",
-    solution_clue: "Das ist ein Hinweis",
+    solution_clue: "Das was du gefunden hast, wird dir bald weiterhelfen.",
     puzzle_type: "text-input",
   },
   {
