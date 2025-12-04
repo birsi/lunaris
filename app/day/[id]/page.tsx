@@ -18,6 +18,7 @@ export default function DayPage({ params }: { params: Promise<{ id: string }> })
   const [showSolution, setShowSolution] = useState(false);
   const [wrongKey, setWrongKey] = useState(0);
   const [puzzleJustSolved, setPuzzleJustSolved] = useState(false);
+  const [videoEnded, setVideoEnded] = useState(false);
   // Use base date for initial render (matches SSR). Override applied after mount.
   const [currentDay, setCurrentDay] = useState(() => getCurrentDayBase());
   const [hasOverride, setHasOverride] = useState(false);
@@ -198,13 +199,14 @@ export default function DayPage({ params }: { params: Promise<{ id: string }> })
       )}
 
       {n === 24 && (isSolved || showSolution) && (
-        <div className="fixed inset-0 z-50 bg-black flex items-center justify-center">
+        <div className={`fixed inset-0 z-50 bg-black flex items-center justify-center transition-opacity duration-1000 ${videoEnded ? 'opacity-0 pointer-events-none' : 'opacity-100'}`}>
           <video
             controls
             autoPlay
             preload="metadata"
             poster={r.image!}
             className="w-full h-full object-contain"
+            onEnded={() => setVideoEnded(true)}
           >
             <source src="/video/day24-video.mp4" type="video/mp4" />
             Your browser does not support the video element.
@@ -262,7 +264,7 @@ export default function DayPage({ params }: { params: Promise<{ id: string }> })
                 dangerouslySetInnerHTML={{ __html: r.text_solution! }}
               />
             </div>
-            {r.solution_audio && (
+            {r.solution_audio && (n !== 24 || videoEnded) && (
               <audio controls autoPlay preload="auto" className="mt-4 w-full">
                 <source src={r.solution_audio} type="audio/mpeg" />
                 Your browser does not support the audio element.
