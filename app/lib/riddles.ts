@@ -70,7 +70,7 @@ export const riddles: Riddle[] = [
   {
     id: 4,
     title: "Die Taverne „Zum Letzten Funken“",
-    text: "Finde das Losungswort!",
+    text: "Finde das Losungswort! (Hinweis: Der Text im Medaillon scheint verschlüsselt zu sein: die richtige Richtung zur Entschlüsselung ist nach vorne.",
     text_solution: `<p>Als Larissa das Wort flüsterte, schimmerte das Medaillon kurz auf und gab ein fein geschnittenes Fragment frei. Es fühlte sich warm an, fast lebendig.</p>
 <p>Der Mann nickte nur.</p>
 <p>„Der Schattenzirkel ist schneller, als du denkst. Aber nicht klüger.“ Dann ging er.</p>

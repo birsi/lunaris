@@ -138,7 +138,7 @@ export default function DayPage({ params }: { params: Promise<{ id: string }> })
         <p className="opacity-90 text-gold/90 whitespace-pre-line">{r.text}</p>
       </div>
 
-      {r.image && n !== 3 && (
+      {r.image && n !== 3 && n !== 24 && (
         <div className="w-full md:w-1/2 mx-auto my-4 rounded-lg shadow-lg border border-gold/20 overflow-hidden">
           <div style={{ position: 'relative', width: '100%', paddingTop: '150%' }} className="bg-[#07090a]">
             <Image
@@ -178,6 +178,37 @@ export default function DayPage({ params }: { params: Promise<{ id: string }> })
               className={`absolute inset-0 w-full h-full object-contain object-center transition-opacity duration-2000 ${isSolved || showSolution ? 'opacity-100' : 'opacity-0'}`}
             />
           </div>
+        </div>
+      )}
+
+      {n === 24 && !(isSolved || showSolution) && (
+        <div className="w-full md:w-1/2 mx-auto my-4 rounded-lg shadow-lg border border-gold/20 overflow-hidden">
+          <div style={{ position: 'relative', width: '100%', paddingTop: '150%' }} className="bg-[#07090a]">
+            <Image
+              src={r.image!}
+              alt={r.title}
+              fill
+              sizes="(max-width: 768px) 100vw, 50vw"
+              placeholder="blur"
+              blurDataURL={"data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 10 7'><rect width='10' height='7' fill='%230a0c10'/></svg>"}
+              className="absolute inset-0 w-full h-full object-contain object-center"
+            />
+          </div>
+        </div>
+      )}
+
+      {n === 24 && (isSolved || showSolution) && (
+        <div className="fixed inset-0 z-50 bg-black flex items-center justify-center">
+          <video
+            controls
+            autoPlay
+            preload="metadata"
+            poster={r.image!}
+            className="w-full h-full object-contain"
+          >
+            <source src="/video/day24-video.mp4" type="video/mp4" />
+            Your browser does not support the video element.
+          </video>
         </div>
       )}
 
