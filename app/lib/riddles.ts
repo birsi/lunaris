@@ -152,7 +152,7 @@ export const riddles: Riddle[] = [
 <p>Ein Lichtstück löste sich und glitt in ihre Hände.</p>
 <p>Doch irgendwo im Nebel hörte sie Schritte.
  Diesmal ganz nah.</p>`,
-    code: "S",
+    code: "Schattenzirkel",
     image: "/images/days/9.png",
     solution_audio: "/audio/solution-9.mp3",
     solution_clue: "N",
