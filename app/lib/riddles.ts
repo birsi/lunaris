@@ -165,7 +165,7 @@ export const riddles: Riddle[] = [
     text_solution: `<p>Ein Eisschacht öffnete sich im Boden.</p>
 <p>Ein Fragment lag darin wie ein verlorener Atemzug.</p>
 <p>Larissa nahm es auf — und sah in der Ferne einen dunklen Umriss am Horizont.</p>`,
-    code: "5",
+    code: "3",
     image: "/images/days/10.png",
     solution_audio: "/audio/solution-10.mp3",
     solution_clue: "Wie können dir diese Buchstaben helfen? W, X, C, H, I, L, Q, M, N, T, E",
