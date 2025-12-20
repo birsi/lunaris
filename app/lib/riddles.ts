@@ -386,7 +386,7 @@ Doch bevor er weitersprechen konnte, bebte der Turm.
   {
     id: 23,
     title: "Der Verrat im Licht",
-    text: "Du hast alle Runen gesammelt! Warte auf morgen!",
+    text: "Du hast alle Runen gesammelt! Heute ist Pause. Warte auf morgen!",
     text_solution: `<p>Das Fach öffnete sich, und darin lag das vorletzte Fragment — größer, heller, schwerer als alle zuvor.
 </p>
 <p>Als Larissa es berührte, verband sich jedes Fragment in ihrer Tasche, vibrierend wie ein Herz.
@@ -421,7 +421,7 @@ Larissa lächelte, und das Licht spielte auf ihren Wangen wie ein alter Freund.
     code: "Erinnerung",
     image: "/images/days/24.png",
     solution_audio: "/audio/solution-24.mp3",
-    solution_clue: "Unter dem Baum!",
+    solution_clue: "Juhu! Du hast Licht gefunden und Lunaris gerettet. :)",
     puzzle_type: "text-input",
   }
 ];
