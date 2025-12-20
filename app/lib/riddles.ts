@@ -296,7 +296,7 @@ Der Nebel fraß die Worte, bevor sie sich umdrehen konnte.
   {
     id: 18,
     title: "Der goldene Staub",
-    text: "Wo findest du das Symbol? Es wird dich weiterbringen.",
+    text: "Wo findest du das Symbol? Es wird dich weiterbringen. Erinnere dich an die Zahl von Tag 15.",
     text_solution: `<p>Der Staub um sie herum wirbelte auf und verdichtete sich. Ein leuchtender Splitter entstand daraus und sank in ihre Hand.</p>
 <p>Doch diesmal geschah mehr:
  Der Himmel flackerte.
