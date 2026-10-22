@@ -1,12 +1,15 @@
 {
   "name": "lunaris",
   "version": "0.1.0",
+  "description": "A hybrid physical/digital Christmas advent calendar game with 24 riddles",
   "private": true,
+  "license": "MIT",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "typecheck": "tsc --noEmit"
   },
   "dependencies": {
     "framer-motion": "^12.23.24",

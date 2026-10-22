@@ -10,10 +10,7 @@ export async function POST(req: Request) {
     const normalized = (answer || "").toString().trim().toUpperCase();
     const expected = r.code.trim().toUpperCase();
 
-    return NextResponse.json({
-      ok: normalized === expected,
-      expected: normalized === expected ? null : expected,
-    });
+    return NextResponse.json({ ok: normalized === expected });
   } catch (err) {
     console.error(err);
     return NextResponse.json({ ok: false, error: "invalid-json" }, { status: 400 });
